@@ -1,3 +1,3 @@
 # JSprojectForWindowsMarket
 
-It's a dev version of project for Windows Market.
+It's a dev version of project for windows market.
